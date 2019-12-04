@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo martes de parte de AMollyBB y BosterBB, los gorditos, ahora 1,ahora 2 y ya!");
+            Console.WriteLine("Hola mundo martes de parte de AMollyBB y BosterBB, los gorditos, ahora 1,ahora 2 y ya dos para cancelar!");
         }
     }
 }
